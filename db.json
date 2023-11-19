@@ -1,0 +1,310 @@
+{
+  "protectedResources": {
+    "products": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "imgProducDistel": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "checkout": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "QCimg": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ],
+    "user": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ]
+  },
+  "imgProducDistel": [
+    {
+      "img1": "aaaaaa",
+      "img2": "aaaaaaaaa",
+      "img3": "aaaaaaaaaaa",
+      "id": 2
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/sg-11134201-22120-1bbpdql1o9kv6f",
+      "img2": "https://cf.shopee.vn/file/c63b543f5d2db98297317113ef99c658",
+      "img3": "https://cf.shopee.vn/file/468d5c9e5502825d8ca559bb9659f531",
+      "id": 4
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/d3fd58e067ebe5a38cd611bee23c3232",
+      "img2": "https://cf.shopee.vn/file/sg-11134201-22090-gxug3d8t1vhv6e",
+      "img3": "https://cf.shopee.vn/file/sg-11134201-22090-5f0ice8t1vhve5",
+      "id": 5
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/sg-11134201-23010-5o8rhh9jgylvcf",
+      "img2": "https://cf.shopee.vn/file/sg-11134201-23010-hgwri8nkgylv0c",
+      "img3": "https://cf.shopee.vn/file/sg-11134201-23010-q62oo45jgylvd9",
+      "id": 6
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/sg-11134201-22110-nomjthxsjvjv84",
+      "img2": "https://cf.shopee.vn/file/sg-11134201-22110-okfbv7q1jvjva0",
+      "img3": "https://cf.shopee.vn/file/vn-11134207-23010-98y8ufqnu8lvb6",
+      "id": 7
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/87452db51f3a50c8577efdebfa465256",
+      "img2": "https://cf.shopee.vn/file/4e1f5bda35161e8358ea69280334aff4",
+      "img3": "https://cf.shopee.vn/file/179c3c08b28c631cc84a9827f2b639dc",
+      "id": 8
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/sg-11134201-23020-3x1dbd86zinvd3",
+      "img2": "https://cf.shopee.vn/file/sg-11134201-23020-giffbd86zinvff",
+      "img3": "https://cf.shopee.vn/file/sg-11134201-23020-5lyadg86zinv6c",
+      "id": 9
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/a3f6701512dcf83d30c845d837b6e372",
+      "img2": "https://cf.shopee.vn/file/e3d993dd8dbab3cfe50bc2ff8a75f6cb",
+      "img3": "https://cf.shopee.vn/file/e380893855d144f99958a2f2e0389e80",
+      "id": 10
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/34a1dfeb38ba7d219f89382c3c48255a",
+      "img2": "https://cf.shopee.vn/file/ffd25ecf29da9139f25cac3531d15280",
+      "img3": "https://cf.shopee.vn/file/8f9dcf807b2ee4dc16a0e3cfe5bc4faf",
+      "id": 11
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/920b679f2ffe6c73e4d8730749120af7",
+      "img2": "https://cf.shopee.vn/file/ad2e05995627112de18fbf53770220b2",
+      "img3": "https://cf.shopee.vn/file/f168209e6974b72f0d75e82ccfd05f43",
+      "id": 12
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/sg-11134201-22110-r4s0q6jn78jve5",
+      "img2": "https://cf.shopee.vn/file/sg-11134201-22110-8uz9a7jn78jv36",
+      "img3": "https://cf.shopee.vn/file/sg-11134201-22110-4vp3m0jn78jv71",
+      "id": 13
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/fe63595806dca2e463ca639a4563c27a",
+      "img2": "https://cf.shopee.vn/file/b75dd34c325f961c0cb1db1b155590f2",
+      "img3": "https://cf.shopee.vn/file/aa49542366f6a3bd5a6822d6a2e7f4e0",
+      "id": 14
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/86b6049018bfa9e1eb2bc864dd6197c4",
+      "img2": "https://cf.shopee.vn/file/b7e2d162b66ce107cf39ad73d73945bd",
+      "img3": "https://cf.shopee.vn/file/ca46bb93172a909b9e20a89beecdce03",
+      "id": 15
+    },
+    {
+      "img1": "https://cf.shopee.vn/file/22eee3d7dec540b570b021c83390fca8",
+      "img2": "https://cf.shopee.vn/file/5673380e5eeb6d36dcb6f46877e907e9",
+      "img3": "https://cf.shopee.vn/file/f0457c77eef2dd8052593e54a20e678b",
+      "id": 16
+    }
+  ],
+  "user": [
+    {
+      "username": "danghongquan123",
+      "password": "danghongquan",
+      "user": "",
+      "address": "",
+      "phone": "",
+      "id": 1
+    },
+    {
+      "username": "chauvo",
+      "password": "chauvo",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 5,
+      "title": "Đồng hồ treo tường",
+      "price": "154",
+      "description": "THÔNG TIN SẢN PHẨM- Sản phẩm:Casio là một thương hiệu đồng hồ của Nhật Bản khai sinh năm 1946. Thương hiệu do ông Tadao Kashio sáng lập. Các dòng nổi bật của Casio phải kể đến như “G - Shock, Baby - G, Casio MTP,...”",
+      "category": "",
+      "image": "https://wscdn.vn/upload/image/iQ-151-1DF-8-2044177497-1506756761.jpg?size=800x800&fomat=webp",
+      "rating": {}
+    },
+    {
+      "id": 6,
+      "title": "Máy lọc nước RO Karofi KAQ-X18",
+      "price": "249",
+      "description": "Máy lọc nước RO Karofi KAQ-X18 với 11 lõi lọc, máy được trang bị màng lọc RO 50 GPD sản xuất tại Mỹ đảm bảo chất lượng, thu hồi đến 40% nước tinh khiết cùng nhiều tiện ích như ngừng hoạt động khi áp lực nước thấp, tự động xả nước thải,... ",
+      "category": "thietbidientu",
+      "image": "https://karofichinhhang.vn/Images/images/May-loc-nuoc-karofi-ERO80-sale-thang-5.webp",
+      "rating": {}
+    },
+    {
+      "id": 7,
+      "title": "Loa Dynaudio Confidence 60",
+      "price": 185000,
+      "description": "Trên thị trường âm thanh thế giới, hay cụ thể hơn là tại Việt Nam, nếu phải kể ra những dòng loa hi-end nổi tiếng và đẳng cấp nhất, chắc chắn danh sách đó không thể thiếu Dynaudio Confidence, loạt sản phẩm nhì bảng của thương hiệu loa hi-end lừng danh thế giới đến từ Đan Mạch Dynaudio. Đáng nói hơn, một cuộc cách mạng chỉ vừa diễn ra cách đây không lâu đã lột xác hoàn toàn dòng sản phẩm tiếng tăm này, biến chúng thành những đôi loa hoàn hảo và đẳng cấp hơn, chạm đến những giới hạn mới trong lĩnh vực loa hi-end hiện đại.",
+      "category": "thietbidientu",
+      "image": "https://thienhaaudio.vn/wp-content/uploads/2018/08/Dynaudio-Confidence-60-600x600.jpg",
+      "rating": {}
+    },
+    {
+      "id": 8,
+      "title": "Tủ lạnh Toshiba Inverter 180 lít GR-B22VU UKG ",
+      "price": 99000,
+      "description": "Với kiểu tủ ngăn đá trên, chiếc tủ lạnh Toshiba Inverter 180 lít GR-B22VU UKG được thiết kế nhỏ gọn nhưng vẫn toát lên vẻ đẹp hiện đại bởi tông màu đen tuyền sang trọng. Dễ dàng đặt ở bất kì vị trí nào trong nhà, từ phòng khách đến phòng bếp.",
+      "category": "thietbidientu",
+      "image": "https://cdn.tgdd.vn/Products/Images/1943/202857/toshiba-gr-b22vu-ukg-220823-015828-600x600.jpg",
+      "rating": {}
+    },
+    {
+      "id": 9,
+      "title": "Máy giặt Aqua 8.8 KG AQW-FR88GT.BK",
+      "price": 119000,
+      "description": "Ngăn ngừa vi khuẩn, nấm mốc với mâm giặt kháng khuẩn ABT Với kháng sinh kháng khuẩn ABT, mâm giặt được phun một dung dịch đặc biệt, kháng khuẩn đến 99,99% và ngăn nấm mốc phát triển bên trong lồng giặt. Bảo vệ sức khỏe toàn diện cho người sử dụng. Sản phẩm thích hợp cho các gia đình có con nhỏ, người dễ bị kích ứng với vi khuẩn, bụi bẩn.",
+      "category": "thoitrangnu",
+      "image": "https://cdn.tgdd.vn/Products/Images/1944/242732/aqua-88-kg-aqw-fr88gtbk-300x300.jpg",
+      "rating": {}
+    },
+    {
+      "id": 10,
+      "title": "Ốp lưng iphone dẻo lưng nhám phím màu chống bẩn vân tay chống sốc bảo vệ camera 7plus/8plus/x/xsmax/11/12/13/14/promax",
+      "price": 15000,
+      "description": "BAOANNSHOP - ỐP LƯNG IPHONE\n🔰 THÔNG TIN SẢN PHẨM: Ốp lưng iphone dẻo lưng nhám phím màu chống bẩn vân tay chống sốc bảo vệ camera 7plus/8plus/x/xs/xsmax/11/12/13/14/promax\n➖ Xuất Xứ: Việt Nam\n➖ Hình Thức Sản Xuất: Tự in Hình lên Phôi.\n➖ Chất liệu: Nhựa nhám dẻo\n➖ Màu sắc: Đen - Xanh tím - Xanh lam\n➖ Ốp lưng được đóng gói bằng túi nilon thiết kế đẹp. \n      - Mực in chất lượng cao,sắc nét, không phai màu, không gây hại cho da\n      - Hình ảnh thiết kế đẹp, phong cách, trẻ trung.\n➖ Công dụng: thay đổi màu sắc cho điện thoại, giữ điện thoại chắc chắn trên tay, an toàn chống trầy xước, bảo vệ chiếc ốp khỏi va đập.\n➖ Dòng máy tương thích: Ốp lưng iPhone 7 Plus, Ốp lưng iPhone 8 Plus, Ốp lưng iPhone X ,Ốp lưng iPhone Xs, Ốp lưng iPhone Xs Max, Ốp lưng iPhone 11, Ốp lưng iPhone 11 Pro Max, Ốp lưng iPhone 12, Ốp lưng iPhone 12 Pro Max, Ốp lưng iPhone 13, Ốp lưng iPhone 13 Pro Max, Ốp lưng iPhone 14 Pro Max, Ốp lưng iPhone 14, Ốp lưng iPhone 14pro, Ốp lưng iPhone 12 Pro, Ốp lưng iPhone 13 Pro, Ốp lưng iPhone 11 Pro",
+      "category": "dienthoai",
+      "image": "https://cf.shopee.vn/file/1abd0f88a5021445293e90f3bbb62d40",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    },
+    {
+      "id": 11,
+      "title": "Điện Thoại Nokia 101,Nokia 100, Nokia 105 Zin Chính Hãng, Được Chọn Kèm Phụ Kiện",
+      "price": 160000,
+      "description": "Lưu ý: Sản phẩm là các dòng máy cũ chính hãng của Nokia được thay vỏ mới,pin sạc mới và bảo hành đầy đủ 12 tháng, quý khách mua sp rồi lưu ý xem video giúp shop ạ!\n- Nokia 100 hỗ trợ 1 sim- sạc chân kim\n- Nokia 101 hỗ trợ 2 sim và hỗ trợ lắp thẻ nhớ nghe nhạc, sạc chân kim\n- Nokia 105 hỗ trợ 2 sim, sạc chân dẹt micro\nTiếp nối truyền thống “máy bền, pin trâu” của những mẫu điện thoại “trứ danh” như Nokia 1200, Nokia 1280,…Hãng điện thoại đến từ Phần Lan tiếp tục tung ra mẫu điện thoại Nokia 100,101,105 vẫn “bền” và “trâu” nhưng được cải tiến nhiều hơn.\n\nĐiện thoại Nokia 100,101,105 giá rẻ vẫn được trang bị bàn phím T9 truyền thống. Ưu điểm rõ ràng của kiểu bàn phím này là dễ sử dụng, tốc độ bấm phím nhanh. Đặc biệt, các phím bấm trên máy được làm bằng vật liệu cao su mềm, không gây đau tay khi sử dụng trong thời gian dài. Điện thoại Nokia 100 được tích hợp sẵn 20 giao diện người dùng có thể thay đổi tùy ý theo sở thích  và cá tính của mình\n Điện thoại Nokia chính hãng giá rẻ thiết kế bền, đẹp, gọn nhẹ phù hợp với mọi lứa tuổi",
+      "category": "dienthoai",
+      "image": "https://cf.shopee.vn/file/3a7fe3513b59468fc5d386cc9700ab1b",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    },
+    {
+      "id": 12,
+      "title": "Combo tai nghe bluetooth không dây tws v5.0 nút cảm ứng âm thanh HIFI có mic đàm thoại kèm vỏ bảo vệ bao đựng case",
+      "price": 99000,
+      "description": "Tai nghe bluetooth không dây nhét tai cảm ứng âm thanh HIFI có vỏ bảo vệ bao đựng case combo\n\n  Phong cách đeo: đeo nhét tai\n  Mức độ chống thấm nước: tiêu chuẩn x1\n  Loại tai nghe: tai nghe bluetooth không dây\n  Chức năng giảm tiếng ồn: giảm tiếng ồn thụ động (giảm tiếng ồn vật lý)\n  Thời lượng pin: 3 giờ - 4 giờ \n  Khoảng cách hoạt động: 8m -10m (không vật cản)\n  Chức năng Bluetooth: Bluetooth 5.0\n  \n  Tai nghe cần được sạc để kích hoạt pin trước lần sử dụng đầu tiên. Sản phẩm này tương thích với hầu hết các loại cáp sạc trên thị trường. Nếu không sạc được, vui lòng thay cáp sạc và thử lại",
+      "category": "thietbidientu",
+      "image": "https://cf.shopee.vn/file/sg-11134201-22100-1ken2now57iv3f",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    },
+    {
+      "id": 13,
+      "title": "Đồng hồ thông minh Định vị Q12( Đồng hồ thông minh trẻ em)lắp sim nghe gọi 2 chiều Chống nước tích hợp 3g",
+      "price": 199000,
+      "description": "✅Đặc điểm:\n 1. Chức năng: Hỗ trợ gọi thoại, vị trí và tuổi thọ pin lâu dài.\n 2. Thiết kế siêu mỏng 14.1mm\n Màu sắc của toàn bộ sản phẩm  uyệt đẹp và phong phú về kết cấu, \n 3. Thiết kế cẩn thận và tay nghề cao.\n Chuẩn bị cẩn thận từng thành phần để đảm bảo thiết bị hoạt động tốt.\n 4. Cuộc gọi hai chiều rõ ràng và ổn định\n Âm thanh to và có thể nghe được trong môi trường ồn ào.\n Thiết kế ăng ten độc đáo, nhiều hiệu chỉnh để đảm bảo cuộc gọi ổn định.\n 5. Trò chuyện bằng giọng nói, giúp giao tiếp thuận tiện hơn\n Hoạt động đơn giản và giao tiếp giọng nói dễ dàng.\n Trò chuyện nhóm dễ dàng, hỗ trợ trò chuyện nhóm với nhiều điện thoại di động\n 6. Định vị chính xác, xem thời gian thực\n Ghi lại chính xác mọi di chuyểncủa trẻ, đáp ứng đầy đủ nhu cầu định vị hàng ngày và cấp cứu.\n 7. Hỗ trợ hàng rào điện tử để luôn bảo vệ sự an toàn của trẻ em.\n Đặt phạm vi hoạt động của trẻ, điện thoại của cha mẹ sẽ nhận được cảnh báo khi trẻ rời khỏi khu vực đã cài đặt trước.\n Ngăn trẻ đi lạc, bắt cóc, khu vực nguy hiểm.\n 8. Tiêu chuẩn IPX4 không thấm nước, không phải lo lắng\n Sử dụng các thành phần chống thấm có độ chính xác cao, bơi và tắm không sợ hỏng, khô như bình thường.\n 9. Pin hiệu suất cao, thời gian chờ lâu.\n Với pin tùy chỉnh polyme, tốc độ sạc nhanh hơn, hiệu suất cao hơn, thời gian dài hơn so với các sản phẩm có cùng một công suất, không cần phải sạc hàng ngày.\n 10. Có trò chơi vui nhộn: Hãy để trẻ em có được hạnh phúc khi giải trí.\n 11. Phần thưởng tình yêu: Khi trẻ hoạt động tốt, việc gửi phần thưởng hình trái tim cho đồng hồ trên điện thoại di động tạo sự khích lệ, giúp trẻ vui vẻ và năng động hơn.",
+      "category": "thietbidientu",
+      "image": "https://cf.shopee.vn/file/sg-11134201-22110-avz9a7jn78jv5b",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    },
+    {
+      "id": 14,
+      "title": "Bộ vệ sinh laptop, Macbook, điện thoại, máy tính cao cấp bộ dụng cụ vệ sinh lens máy ảnh máy quay DSLR FUKI BVSMA",
+      "price": 129000,
+      "description": "📌 THÔNG TIN SẢN PHẨM\nBộ vệ sinh Lens ống kính Máy Ảnh gồm:\n- 1 Hộp đựng dụng cụ\n- 2 Cọ lau bụi với đầu lông chải rất mịn và mềm\n- 1 Bóng thổi bụi\n- 1 lọ đựng dung dịch vệ sinh \n- 1 Khăn mềm lau chuyên dụng, khăn lau với về mặt mềm và mịn không đổ lông giúp vệ sinh tốt thân máy\n- 1 tập giấy lau ống kính với sớ giấy cực mịn không rơi bụi giấy, lau sạch vết bẩn và bảo đảm an\n- 1 bút lau lens\n- 5 giấy lau ống kính ướt và khô\n- 5 bông tăm 2 đầu",
+      "category": "mayanh",
+      "image": "https://cf.shopee.vn/file/2405a4f3165eb4ad8642206c7ee7f4c0",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    },
+    {
+      "id": 15,
+      "title": "Camera ip wifi ezviz C6N 4M ( 2K ) 1080P 2M - Hàng chính hãng bảo hành 2 năm- tặng phích âm và lạt nhựa khi mua kèm thẻ",
+      "price": 960000,
+      "description": "Camera ip wifi ezviz c6n 4M ( 2K ) 1080P 2M - Hàng chính hãng bảo hành 2 năm\n\nQuý khách có thể lựa chon 2 thuộc tính camera EZVIZ C6N Độ phân giải 2M 1080p hoặc Độ Phân giải 4M (2K)\n\nLưu ý :Quà tặng : Tặng phích âm và lạt 10 sợi lạt nhựa dài 10cm khi mua kèm thẻ",
+      "category": "mayanh",
+      "image": "https://cf.shopee.vn/file/3b36e917475336f008a9c1efd0260ce3",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    },
+    {
+      "id": 16,
+      "title": "Đồng Hồ Điện Tử Dây Silicone Thể Thao Cho Học Sinh",
+      "price": 25000,
+      "description": "Người bán lại & Dropship Chào mừng\n\nChào mừng đến với LWCC Store\n\nNhà cung cấp trực tiếp nhất, giao hàng WSe giá rẻ và nhanh chóng.\n\n\nShop chúng tôi đảm bảo rằng các mặt hàng sẽ đến đặt hàng, \n\nNó có thể đảm bảo an toàn và không bị hư hại trong quá trình vận chuyển bằng cách bọc màng bong bóng khí.\n\n\n【Kích Thước THÔNG TIN】:\n\nĐường kính quay số: 37mm\n\nĐộ dày: 11mm\n\nLoại vương miện: Vương miện hình nón đỉnh phẳng\n\nLoại đáy bảng: bình thường\n\nSpecular Shading: Gương nhựa\n\nKiểu nút: Khóa ghim\n\nChất liệu khóa: Thép không gỉ\n\nChất liệu ban nhạc: Silica gel\n\nHình dạng quay số: hình vuông\n\nChất liệu vỏ: Xi măng nhựa",
+      "category": "dongho",
+      "image": "https://cf.shopee.vn/file/9af7139ee853836a0c237cab2de05b89",
+      "rating": {
+        "rate": null,
+        "count": null
+      }
+    }
+  ],
+  "checkout": [
+    {
+      "name": "trần quang đạt",
+      "address": "Quận 1 Thành Phố Hồ Chí Minh",
+      "phone": "0938937344",
+      "note": "",
+      "items": [
+        {
+          "id": 5,
+          "title": "Áo phông form rộng tay lỡ Hadez hình chữ H unisex",
+          "price": "154",
+          "description": "THÔNG TIN SẢN PHẨM\n- Sản phẩm: áo thun unisex DT Clothes bắt mắt\n- Mặc ở nhà, mặc đi chơi hoặc khi vận động thể thao. Phù hợp khi mix đồ với nhiều loại.\n- Thiết kế hiện đại, trẻ trung, năng động, dễ phối đồ.\n- Thiết kế Unisex sẽ mang đến một outfit năng động và cá tính dù không cần mix-match cầu kì.\n\nKh e sỉ sll giá siêu mềm đa dạng mẫu mã nhiều loại đồ unisex giá 2x \nlh hotline : 0963.19.50.25\n\n\n\n\nDo màn hình và điều kiện ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể chênh lệch khoảng2-3%\n\n#dtclothes #aothun #aothunnamnu #aothununisex #aophong #aonamnu #thoitrangnamnu #unisex #aofreesize #aothunoversize #Hades #aoxanhla",
+          "category": "",
+          "image": "https://cf.shopee.vn/file/sg-11134201-22090-suwtr6yu1vhvd6",
+          "rating": {},
+          "quantity": 1,
+          "itemTotal": 154
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "QCimg": [
+    {
+      "id": 1,
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/10/banner/720-220-720x220-108.png"
+    },
+    {
+      "id": 2,
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/11/banner/720-220-720x220-81.png"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.tgdd.vn/2023/11/banner/maylanhgiare-390x97.png"
+    },
+    {
+      "id": "5",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/11/banner/720-220-720x220-14.png"
+    },
+    {
+      "id": "3",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/11/banner/Redmi-13C-720-220-720x220-1.png"
+    }
+  ]
+}
